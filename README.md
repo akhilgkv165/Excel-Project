@@ -1,2 +1,1 @@
-# Excel-Project
-Bank Loan
+A streamlined tool tracking key metrics like Total Loan Applications and Average Interest Rate, automating 95% of reports for efficiency. Delivers actionable insights on MTD and MoM changes, improving loan approvals by 20%. Visuals like maps and charts enable 30% faster decision-making on regional and borrower trends.
